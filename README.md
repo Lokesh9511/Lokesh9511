@@ -44,6 +44,16 @@ Passionate about leveraging analytical skills and knowledge to contribute to org
    - **Issued:** November 11, 2023
 
 
+4. **SQL and Databases**
+
+- Certified in SQL and Relational Databases by IBM through Cognitive Class. Enhanced my SQL querying and   database management skills.
+-**Certificate Validation :** https://courses.cognitiveclass.ai/certificates/98c2264d229943c3b288c0b32bbb0e61
+
+5. Power Bi :
+- Certified Successfully completed the Power BI Job Simulation Certificate with Forage, enhancing my skills in data visualization and analysis with a focus on customer 
+  retention and workplace diversity. 
+
+
 <!---
 Lokesh9511/Lokesh9511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
